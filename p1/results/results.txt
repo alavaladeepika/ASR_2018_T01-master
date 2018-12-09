@@ -1,0 +1,26 @@
+No. of samples matched: 64189
+Accuracy using mfcc features(i) with GMM_64: 14.211796484080946
+No. of samples matched: 62893
+Accuracy using mfcc features(ii) with GMM_128: 13.92485497940929
+No. of samples matched: 67227
+Accuracy using mfcc features(ii) with GMM_16: 14.884426338396139
+No. of samples matched: 58926
+Accuracy using mfcc features(ii) with GMM_2: 13.046539432316345
+No. of samples matched: 60820
+Accuracy using mfcc features(ii) with GMM_256: 13.46588141522384
+No. of samples matched: 67897
+Accuracy using mfcc features(ii) with GMM_32: 15.032768011335962
+No. of samples matched: 65323
+Accuracy using mfcc features(ii) with GMM_4: 14.462870300668646
+No. of samples matched: 65413
+Accuracy using mfcc features(ii) with GMM_64: 14.482796794048621
+No. of samples matched: 65933
+Accuracy using mfcc features(ii) with GMM_8: 14.597927644688482
+No. of samples matched: 85355
+Accuracy using mfcc_delta features(i) with GMM_64: 18.898064916087325
+No. of samples matched: 85566
+Accuracy using mfcc_delta features(ii) with GMM_64: 18.944781472789266
+No. of samples matched: 87299
+Accuracy using mfcc_delta_delta features(i) with GMM_64: 19.328477173094804
+No. of samples matched: 86463
+Accuracy using mfcc_delta_delta features(ii) with GMM_64: 19.143382190143026
