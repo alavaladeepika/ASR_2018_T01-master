@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ASR_2018_T01
 ## Data pre processing
 Run ```python import_timit.py --timit=./TIMIT --preprocessed=False```
@@ -38,3 +39,7 @@ If you have already converted the files, set ```--preprocessed=True``` to skip t
     Repeat the process for different MFCC features as mentioned in the objective (mfcc, delta, delta-delta, with/without energy coefficients)
     train.py saves the GMM models parameters in the models directory
     test.py reads the GMM model from the directory and tests it on the test data
+=======
+# ASR_2018_T01-master
+Automatic Speech Recognition Project-1
+>>>>>>> 87e7f760493f4b6d3630a067ef131d595e263c3f
